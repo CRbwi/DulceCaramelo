@@ -1,3 +1,46 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero",
+      "description": "A vibrant assortment of colorful candies spread out.",
+      "imageUrl": "https://images.unsplash.com/photo-1636407690255-0ab04b303944?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjb2xvcmZ1bCUyMGNhbmRpZXN8ZW58MHx8fHwxNzYyMTk1MjI5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "colorful candies"
+    },
+    {
+      "id": "about",
+      "description": "An artisan candy maker's hands crafting sweets in a traditional workshop.",
+      "imageUrl": "https://images.unsplash.com/photo-1576712967455-c8d22580e9be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjYW5keSUyMHdvcmtzaG9wfGVufDB8fHx8MTc2MjE5NTIyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "candy workshop"
+    },
+    {
+      "id": "product-classic",
+      "description": "A pile of shiny, colorful hard candies.",
+      "imageUrl": "https://images.unsplash.com/photo-1740302579351-884df176f177?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoYXJkJTIwY2FuZHl8ZW58MHx8fHwxNzYyMTkyNzU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hard candy"
+    },
+    {
+      "id": "product-toffee",
+      "description": "Soft, creamy toffee squares wrapped in wax paper.",
+      "imageUrl": "https://images.unsplash.com/photo-1518393840670-bc6fb84f7d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0b2ZmZWUlMjBjYW5keXxlbnwwfHx8fDE3NjIxOTUyMjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "toffee candy"
+    },
+    {
+      "id": "product-bonbon",
+      "description": "Assorted chocolate bonbons with various fillings.",
+      "imageUrl": "https://images.unsplash.com/photo-1598214239128-55b3de289853?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjaG9jb2xhdGUlMjBib25ib25zfGVufDB8fHx8MTc2MjEwMDM2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate bonbons"
+    },
+    {
+      "id": "product-gum",
+      "description": "A colorful mix of gummy candies and gumballs.",
+      "imageUrl": "https://images.unsplash.com/photo-1665757516800-8e0e6ea5816b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxndW1teSUyMGNhbmR5fGVufDB8fHx8MTc2MjE5Mjc1OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gummy candy"
+    },
+    {
+      "id": "product-sugarfree",
+      "description": "An elegant display of sugar-free lollipops and candies.",
+      "imageUrl": "https://images.unsplash.com/photo-1588755821761-a4d1eafe2b19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c3VnYXItZnJlZSUyMGNhbmR5fGVufDB8fHx8MTc2MjE5Mjc1OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sugar-free candy"
+    }
+  ]
 }
