@@ -17,6 +17,7 @@ const navItems = [
   { href: '#historia', label: 'Historia' },
   { href: '#productos', label: 'Productos' },
   { href: '#porque-elegirnos', label: 'Por qué elegirnos' },
+  { href: '#faq', label: 'Preguntas' },
   { href: '#contacto', label: 'Contacto' },
 ];
 

@@ -41,6 +41,12 @@
       "description": "An elegant display of sugar-free lollipops and candies.",
       "imageUrl": "https://images.unsplash.com/photo-1588755821761-a4d1eafe2b19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c3VnYXItZnJlZSUyMGNhbmR5fGVufDB8fHx8MTc2MjE5Mjc1OHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "sugar-free candy"
+    },
+    {
+      "id": "faq",
+      "description": "Colorful swirl lollipops arranged neatly.",
+      "imageUrl": "https://images.unsplash.com/photo-1575224300306-9b87236e7a27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzd2lybCUyMGxvbGxpcG9wc3xlbnwwfHx8fDE3MjI0NTk2ODV8MA&ixlib=rb-4.0.3&q=80&w=1080",
+      "imageHint": "swirl lollipops"
     }
   ]
 }

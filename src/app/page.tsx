@@ -4,6 +4,7 @@ import Hero from '@/components/sections/hero';
 import About from '@/components/sections/about';
 import Products from '@/components/sections/products';
 import WhyUs from '@/components/sections/why-us';
+import Faq from '@/components/sections/faq';
 import Contact from '@/components/sections/contact';
 
 export default function Home() {
@@ -15,6 +16,7 @@ export default function Home() {
         <About />
         <Products />
         <WhyUs />
+        <Faq />
         <Contact />
       </main>
       <Footer />
